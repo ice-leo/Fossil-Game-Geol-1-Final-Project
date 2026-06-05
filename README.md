@@ -15,7 +15,7 @@ You don't need to install Python to play! You can choose to play directly in you
 * **WASD / Arrow Keys**: Move your character and navigate menus.
 * **E**: Interact with NPCs (Talk to Dr. Pebble and Prof. Stratum).
 * **F**: Open and close your FossilDex (view your excavated fossils).
-* **Enter / Spacebar**: Select options, confirm answers, and progress dialogue.
+* **Enter**: Select options, confirm answers, and progress dialogue.
 * **Left Mouse Click**: Use your pickaxe to break soil during the excavation minigame.
 
 ## How to Play
