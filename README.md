@@ -1,7 +1,6 @@
 # Fossil Excavation & Quiz Game
 
-Welcome to the Fossil Excavation & Quiz Game! Explore the island, dig up ancient fossils, record your discoveries in the FossilDex, and test your geological knowledge to win the gold trophy.
-
+Welcome to the Fossil Excavation & Quiz Game! Explore the island, dig up ancient fossils, record your discoveries in the FossilDex, and test your geological knowledge to win the Fossil Master title!
 ## Play the Game
 You don't need to install Python to play! You can choose to play directly in your web browser or download the game to your PC.
 
