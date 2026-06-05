@@ -9,7 +9,7 @@ You don't need to install Python to play! You can choose to play directly in you
 **[Play on Itch.io](https://iceleo313.itch.io/fossil-excavation-quiz-game)**
 
 **Download for Windows** Prefer to play offline? Download the playable `.exe` file directly from Google Drive here:  
-**[Download Game (.exe)](https://drive.google.com/file/d/1SulgBzpm3h4e80qH1F_yx7E1P2KTIlhw/view?usp=sharing)** *(Instructions: Simply download the file, double-click to run, and start exploring!)*
+**[Download Game (.exe)]([https://drive.google.com/file/d/1SulgBzpm3h4e80qH1F_yx7E1P2KTIlhw/view?usp=sharing](https://drive.google.com/file/d/1VoPvtCD3sjewuuXCmIJfvNHlAYW30WM2/view?usp=sharing))** *(Instructions: Simply download the file, double-click to run, and start exploring!)*
 
 ## Controls
 * **WASD / Arrow Keys**: Move your character and navigate menus.
